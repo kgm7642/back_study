@@ -6,15 +6,15 @@ public class ScannerExample {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("x 값 입력 : ");
         while(true) {
-            System.out.println("x 값 입력 : ");
+            System.out.print("입력 문자열: ");
             String str = sc.nextLine();
 
             if(str.equals("q")) {
                 break;
             }
-            System.out.println("입력값 = " + str);
+            System.out.print("출력 문자열: " + str);
+            System.out.println();
         }
         // 스캐너 닫기
         System.out.println("종료");
