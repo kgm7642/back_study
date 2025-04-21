@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66fec63-ef0e-47b0-9142-356eaa4992f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec06/exam01/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam01/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam01/CarExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam02/Korean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam02/KoreanExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam03/Korean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam04/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam04/CarExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam05/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec07/exam05/CarExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam01/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam01/CalculatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam02/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam02/ComputerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam03/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam03/CarExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam04/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec08/exam04/CalculatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec09/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec09/CarExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec10/exam01/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/sec10/exam01/CalculatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lecture/book/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lecture/book/Book.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b66fec63-ef0e-47b0-9142-356eaa4992f2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,9 +34,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.ch03-class [:advanced.Ad01.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Ad02.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Ad03.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Example04.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Example05.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Example06.main()].executor": "Run",
+    "Gradle.ch03-class [:advanced.Example07.main()].executor": "Run",
     "Gradle.ch03-class [:ch06.sec07.exam01.CarExample.main()].executor": "Run",
     "Gradle.ch03-class [:ch06.sec07.exam02.KoreanExample.main()].executor": "Run",
     "Gradle.ch03-class [:ch06.sec08.exam03.CarExample.main()].executor": "Run",
+    "Gradle.ch03-class [:ch06.sec10.exam01.CalculatorExample.main()].executor": "Run",
     "Gradle.ch03-class [:lecture.book.Application.main()].executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -82,16 +55,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MTThemeSelectorConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ch06.sec08.exam03.CarExample">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.book.Application" />
+  <component name="RunManager" selected="Application.Example07">
+    <configuration name="Example03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Example03" />
       <module name="ch03-class.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.book.*" />
+          <option name="PATTERN" value="advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06.sec07.exam01.CarExample" />
+    <configuration name="Example04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Example04" />
       <module name="ch03-class.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06.sec07.exam01.*" />
+          <option name="PATTERN" value="advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KoreanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06.sec07.exam02.KoreanExample" />
+    <configuration name="Example05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Example05" />
       <module name="ch03-class.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06.sec07.exam02.*" />
+          <option name="PATTERN" value="advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch06.sec08.exam03.CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06.sec08.exam03.CarExample" />
+    <configuration name="Example06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Example06" />
       <module name="ch03-class.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06.sec08.exam03.*" />
+          <option name="PATTERN" value="advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Example07" />
+      <module name="ch03-class.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch06.sec08.exam03.CarExample" />
-        <item itemvalue="Application.KoreanExample" />
-        <item itemvalue="Application.CarExample" />
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Example07" />
+        <item itemvalue="Application.Example06" />
+        <item itemvalue="Application.Example05" />
+        <item itemvalue="Application.Example04" />
+        <item itemvalue="Application.Example03" />
       </list>
     </recent_temporary>
   </component>
@@ -170,5 +158,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
