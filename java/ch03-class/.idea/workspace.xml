@@ -46,10 +46,11 @@
     "Gradle.ch03-class [:ch06.sec08.exam03.CarExample.main()].executor": "Run",
     "Gradle.ch03-class [:ch06.sec10.exam01.CalculatorExample.main()].executor": "Run",
     "Gradle.ch03-class [:lecture.book.Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/baekjoon",
+    "last_opened_file_path": "C:/fullstack/back_study/java/ch04-inheritance",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -153,6 +154,7 @@
       <updated>1744782584566</updated>
       <workItem from="1744782585742" duration="7241000" />
       <workItem from="1744847672934" duration="2525000" />
+      <workItem from="1747036001594" duration="157000" />
     </task>
     <servers />
   </component>
